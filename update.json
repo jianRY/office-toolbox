@@ -1,0 +1,9 @@
+{
+  "latest_version": "1.0.0",
+  "release_date": "2026-09-25",
+  "windows_onefile_url": "https://github.com/jianRY/office-toolbox/releases/download/v1.0.0/OfficeToolbox-1.0.0-win-single.exe",
+  "windows_onedir_url": "https://github.com/jianRY/office-toolbox/releases/download/v1.0.0/OfficeToolbox-1.0.0-win.zip",
+  "installer_url": "https://github.com/jianRY/office-toolbox/releases/download/v1.0.0/OfficeToolbox-1.0.0-setup.exe",
+  "release_notes": "首版：四个工具合并为单窗口，左侧图标栏切换，可拖拽排序。",
+  "min_version_required": "1.0.0"
+}
