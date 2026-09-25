@@ -4,6 +4,6 @@
   "windows_onefile_url": "https://github.com/jianRY/office-toolbox/releases/download/v1.0.1/OfficeToolbox-1.0.1-win-single.exe",
   "windows_onedir_url": "https://github.com/jianRY/office-toolbox/releases/download/v1.0.1/OfficeToolbox-1.0.1-win.zip",
   "installer_url": "https://github.com/jianRY/office-toolbox/releases/download/v1.0.1/OfficeToolbox-1.0.1-setup.exe",
-  "release_notes": "发票二维码模块同步上游 v5.2.0：问题图片前缀改为「原因+序号」（无-/非票-/重复-），全部统一放在「未识别」文件夹。",
+  "release_notes": "见 release 页面",
   "min_version_required": "1.0.0"
 }
