@@ -4,6 +4,6 @@
   "windows_onefile_url": "https://github.com/jianRY/office-toolbox/releases/download/v1.0.2/OfficeToolbox-1.0.2-win-single.exe",
   "windows_onedir_url": "https://github.com/jianRY/office-toolbox/releases/download/v1.0.2/OfficeToolbox-1.0.2-win.zip",
   "installer_url": "https://github.com/jianRY/office-toolbox/releases/download/v1.0.2/OfficeToolbox-1.0.2-setup.exe",
-  "release_notes": "四个模块界面精简与统一：去掉各模块自带的顶栏、品牌头与更新入口，配色、圆角、控件全部拉齐到同一套。功能无变化。",
+  "release_notes": "见 release 页面",
   "min_version_required": "1.0.0"
 }
