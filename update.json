@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.1.0",
-  "release_date": "2026-10-08",
-  "windows_onefile_url": "https://github.com/jianRY/office-toolbox/releases/download/v1.1.0/OfficeToolbox-1.1.0-win-single.exe",
-  "windows_onedir_url": "https://github.com/jianRY/office-toolbox/releases/download/v1.1.0/OfficeToolbox-1.1.0-win.zip",
-  "installer_url": "https://github.com/jianRY/office-toolbox/releases/download/v1.1.0/OfficeToolbox-1.1.0-setup.exe",
-  "release_notes": "见 release 页面",
+  "latest_version": "1.1.1",
+  "release_date": "2026-10-11",
+  "windows_onefile_url": "https://github.com/jianRY/office-toolbox/releases/download/v1.1.1/OfficeToolbox-1.1.1-win-single.exe",
+  "windows_onedir_url": "https://github.com/jianRY/office-toolbox/releases/download/v1.1.1/OfficeToolbox-1.1.1-win.zip",
+  "installer_url": "https://github.com/jianRY/office-toolbox/releases/download/v1.1.1/OfficeToolbox-1.1.1-setup.exe",
+  "release_notes": "法院文书下载器 v2.11.0（新增更新后是否删除旧版本的选择；修复扩展名类型异常导致文件打不开）、发票二维码识别下载工具 v5.5.0（新增「添加文件…」可直接选 PDF）与 v5.4.0（多项稳定性修复）。",
   "min_version_required": "1.0.0"
 }
