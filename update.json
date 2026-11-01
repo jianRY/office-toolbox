@@ -4,6 +4,6 @@
   "windows_onefile_url": "https://github.com/jianRY/office-toolbox/releases/download/v1.2.0/OfficeToolbox-1.2.0-win-single.exe",
   "windows_onedir_url": "https://github.com/jianRY/office-toolbox/releases/download/v1.2.0/OfficeToolbox-1.2.0-win.zip",
   "installer_url": "https://github.com/jianRY/office-toolbox/releases/download/v1.2.0/OfficeToolbox-1.2.0-setup.exe",
-  "release_notes": "法院文书下载器 v2.11.2（更新包校验更严格、日志不再记录送达链接凭证、新增导出诊断日志）、发票二维码识别下载工具 v5.8.1（修复已下载 PDF 被误删、修复更新失败却关掉程序）、发票识别汇总 v1.5.1（修复多目录误处理与更新清理卡顿）、图片转 Excel 助手 v1.3.1（修复数值清洗五类缺陷）。",
+  "release_notes": "见 release 页面",
   "min_version_required": "1.0.0"
 }
